@@ -1,6 +1,10 @@
 # teardown-debugmenu
 Debug menu for Teardown
 
+## Preview
+
+![](images/preview.png)
+
 # Instructions
 
 - [How to install](https://github.com/funlennysub/teardown-debugmenu#how-to-install)
@@ -51,4 +55,4 @@ UiTranslate(0, lh)
 ```
 And your code should look something like this:
 
-![result](https://opera.is-terrible.com/yWIWZl.png)
+![result](images/code.png)
