@@ -12,13 +12,13 @@ Debug menu for Teardown
 
 ## How to install
 
-**IF YOU ALREADY HAVE MODS THAT MAKES CHANGED TO THE `hud.lua` and `options.lua` READ [How to merge it with other mods](https://github.com/funlennysub/teardown-debugmenu#how-to-merge-it-with-other-mods).**
+**IF YOU ALREADY HAVE MODS THAT MAKE CHANGES TO THE `hud.lua` and `options.lua` READ [How to merge it with other mods](https://github.com/funlennysub/teardown-debugmenu#how-to-merge-it-with-other-mods).**
 
 1. Download .zip file
 * To download .zip file: Press the green "code" button, then "Download ZIP"
 2. Open the folder where the game was installed
 3. Go to `data/ui/`
-4. Move these 3 **.lua** files that you downloaded and overwrite the existing ones
+4. Move the 3 **.lua** files that you downloaded and overwrite the existing ones
 
 ## How to merge it with other mods
 
